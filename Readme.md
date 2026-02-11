@@ -21,5 +21,4 @@ This README file provides a list of essential Git commands that are commonly use
 15. **git stash pop** - Apply the most recently stashed changes and remove them from the stash list.
 16. **git tag <tag_name>** - Create a new tag.
 17. **git push origin <tag_name>** - Push a tag to the remote repository.
-    
-conclusion
+
