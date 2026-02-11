@@ -19,7 +19,5 @@ This README file provides a list of essential Git commands that are commonly use
 13. **git reset --hard HEAD** - Discard all local changes   and reset to the last commit.
 14. **git stash** - Temporarily save changes that are not ready to be committed.
 15. **git stash pop** - Apply the most recently stashed changes and remove them from the stash list.
-16. **git tag <tag_name>** - Create a new tag.
-17. **git push origin <tag_name>** - Push a tag to the remote repository.
-    
+
 
